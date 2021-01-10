@@ -105,8 +105,8 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
-# mariadb configuration
-config/
+# # mariadb configuration
+# config/
 
 # TernJS port file
 .tern-port
