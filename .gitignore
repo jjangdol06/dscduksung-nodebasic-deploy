@@ -73,9 +73,9 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
-.env.test
+# # dotenv environment variables file
+# .env
+# .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -468,4 +468,5 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,node
+
 
