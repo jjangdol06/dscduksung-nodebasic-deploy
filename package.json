@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "NODE_ENV=production PORT=80 pm2 start index.js",
-    "dev": "nodemon index"
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
